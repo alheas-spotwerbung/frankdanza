@@ -1,0 +1,35 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "template/index.html"
+        ],
+        "createdAt": "2026-10-25T21:39:54.688Z",
+        "reason": "Claude: only hit is .cta, which has padding clamp(40px,7vw,88px) x clamp(24px,6vw,72px); text inset confirmed in 1440 and 390 screenshots"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "template2/assets/css/app.css"
+        ],
+        "createdAt": "2026-10-26T13:59:20.939Z",
+        "reason": "Claude: remaining hit is .sub-roles, a neutral 2px grey timeline rule joining multiple roles at one employer, not an accent card border"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "template2/index.html"
+        ],
+        "createdAt": "2026-10-26T14:01:15.145Z",
+        "reason": "Claude: only hit is .auth-stage, whose flush children are text-free full-bleed layers (photo, tint, ribbons); text has padding clamp(24px,4vw,48px), confirmed in 1440 and 390 screenshots"
+      }
+    ]
+  }
+}

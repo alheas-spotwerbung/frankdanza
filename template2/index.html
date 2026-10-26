@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Accedi · FrankDanza</title>
+  <meta name="description" content="Accedi a FrankDanza: la tua rete, le audizioni aperte e i messaggi di scuole e compagnie.">
+  <meta name="theme-color" content="#121214">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Schibsted+Grotesk:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <script>document.documentElement.classList.add('js')</script>
+</head>
+<body data-page="login">
+  <main class="auth" id="main">
+    <!-- Palco: foto, nastri di movimento e claim -->
+    <section class="auth-stage" aria-label="FrankDanza">
+      <div class="auth-photo" id="auth-photo"></div>
+      <div class="auth-tint" aria-hidden="true"></div>
+      <svg class="auth-ribbons" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+        <defs>
+          <linearGradient id="rb1" x1="0" x2="1"><stop offset="0" stop-color="#3346FF"/><stop offset=".55" stop-color="#6A7BFF"/><stop offset="1" stop-color="#B9C1FF"/></linearGradient>
+          <linearGradient id="rb2" x1="0" x2="1"><stop offset="0" stop-color="#B9C1FF" stop-opacity=".1"/><stop offset="1" stop-color="#B9C1FF" stop-opacity=".7"/></linearGradient>
+        </defs>
+        <path d="M-60 760C120 640 220 820 380 700S600 420 860 470" stroke="url(#rb1)" stroke-width="10"/>
+        <path d="M-60 840C160 760 300 900 460 780S700 600 880 640" stroke="url(#rb2)" stroke-width="34" opacity=".5"/>
+        <path d="M-40 300C140 260 220 120 420 160S660 320 860 220" stroke="url(#rb2)" stroke-width="3"/>
+      </svg>
+
+      <a class="brand" href="../template/index.html" aria-label="FrankDanza, sito pubblico">
+        <svg class="brand-mark" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+          <path d="M9 33C10 20 14 9 30 7" stroke="#9AA5FF" stroke-width="4.5" stroke-linecap="round"/>
+          <path d="M8 21c6-3 13-3 21 1" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+        </svg>
+        <span class="brand-word">FrankDanza</span>
+      </a>
+
+      <div class="auth-claim">
+        <h1>
+          <span class="line"><span>Di nuovo</span></span>
+          <span class="line"><span><em>in sala.</em></span></span>
+        </h1>
+        <p>Ritrova la tua rete, le audizioni aperte e i messaggi di scuole e compagnie. Tutto dove l'hai lasciato.</p>
+        <div class="auth-proof" id="auth-proof"></div>
+      </div>
+
+    </section>
+
+    <!-- Accesso -->
+    <section class="auth-panel">
+      <p class="top-link">Nuovo su FrankDanza?<a href="../template/index.html#unisciti">Crea il profilo</a></p>
+
+      <form class="auth-form" id="login" novalidate>
+        <div>
+          <h2>Accedi</h2>
+        </div>
+        <p class="lead">Usa l'email del tuo profilo FrankDanza.</p>
+
+        <div class="sso">
+          <button type="button" data-sso="Google">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.6 12.3c0-.8-.1-1.5-.2-2.2H12v4.2h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.3-4.8 3.3-8Z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1.1-3.7 1.1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23Z"/><path fill="#FBBC05" d="M5.8 14.2a6.6 6.6 0 0 1 0-4.3V7H2.1a11 11 0 0 0 0 9.9Z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3.1.6 4.2 1.7l3.2-3.2A11 11 0 0 0 2.1 7l3.7 2.9C6.7 7.3 9.1 5.4 12 5.4Z"/></svg>
+            Google
+          </button>
+          <button type="button" data-sso="Apple">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.4 12.6c0-2.5 2-3.7 2.1-3.7a4.6 4.6 0 0 0-3.6-2c-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.8a4.9 4.9 0 0 0-4.1 2.5c-1.8 3.1-.5 7.6 1.3 10.1.8 1.2 1.8 2.6 3.1 2.5 1.3 0 1.7-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.2 3.1-2.5a10.6 10.6 0 0 0 1.4-2.9 4.5 4.5 0 0 1-2.8-4.1ZM14 5.2A4.4 4.4 0 0 0 15 2a4.6 4.6 0 0 0-3 1.5 4.2 4.2 0 0 0-1 3.1 3.8 3.8 0 0 0 3-1.4Z"/></svg>
+            Apple
+          </button>
+        </div>
+        <div class="or">oppure con l'email</div>
+
+        <div class="form-alert" id="alert" role="alert"></div>
+
+        <label class="field">
+          <span>Email</span>
+          <input class="input" id="email" name="email" type="email" autocomplete="email" inputmode="email" placeholder="nome@esempio.it" required>
+          <small class="err" id="email-err"></small>
+        </label>
+        <label class="field">
+          <span>Password</span>
+          <span class="pw">
+            <input class="input" id="password" name="password" type="password" autocomplete="current-password" placeholder="Almeno 6 caratteri" required minlength="6">
+            <button type="button" id="pw-toggle" aria-controls="password" aria-pressed="false">Mostra</button>
+          </span>
+          <small class="err" id="pw-err"></small>
+        </label>
+
+        <div class="auth-row">
+          <label class="check"><input type="checkbox" id="remember" checked> Resta collegato</label>
+          <a href="#" id="forgot">Password dimenticata?</a>
+        </div>
+
+        <button class="btn btn-block" type="submit" id="submit">Accedi <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+
+        <div class="demo">
+          <svg class="icon" aria-hidden="true"><use href="#i-spark"/></svg>
+          <span>Profilo demo: <b>giulia@frankdanza.it</b></span>
+          <button type="button" id="fill-demo">Compila</button>
+        </div>
+
+        <p class="auth-legal">Accedendo accetti le <a href="#">Condizioni d'uso</a> e l'<a href="#">Informativa privacy</a> di FrankDanza.</p>
+      </form>
+    </section>
+  </main>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/media.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/login.js"></script>
+</body>
+</html>

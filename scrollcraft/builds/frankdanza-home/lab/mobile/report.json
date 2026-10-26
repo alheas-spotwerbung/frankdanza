@@ -1,0 +1,1922 @@
+{
+  "doc": {
+    "height": 12003,
+    "vh": 844,
+    "acts": [
+      "pin",
+      "pan",
+      "flow",
+      "pin",
+      "flow",
+      "flow",
+      "pin"
+    ],
+    "world": null
+  },
+  "report": [
+    {
+      "i": 0,
+      "y": 15,
+      "pct": 0,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Ist",
+          "dir": "light-on-dark",
+          "worst": 8.55,
+          "mean": 16.54
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Istruttor",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1589,
+        4965,
+        10806
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 1,
+      "y": 161,
+      "pct": 1,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Ist",
+          "dir": "light-on-dark",
+          "worst": 8.87,
+          "mean": 16.67
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Istruttor",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1443,
+        4819,
+        10660
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 2,
+      "y": 307,
+      "pct": 3,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Ist",
+          "dir": "light-on-dark",
+          "worst": 9.4,
+          "mean": 16.71
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Istruttor",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1297,
+        4673,
+        10514
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 3,
+      "y": 453,
+      "pct": 4,
+      "settled": true,
+      "contrast": [],
+      "cues": [
+        {
+          "t": "Il movimento ha trovato la sua casa. Istruttor",
+          "o": 0.04
+        },
+        {
+          "t": "Stasera in scena: chi insegna e chi balla, da ",
+          "o": 0.27
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1151,
+        4527,
+        10368
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 4,
+      "y": 599,
+      "pct": 5,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Stasera in scena: chi insegna e chi ball",
+          "dir": "light-on-dark",
+          "worst": 9.16,
+          "mean": 15.57
+        }
+      ],
+      "cues": [
+        {
+          "t": "Stasera in scena: chi insegna e chi balla, da ",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1005,
+        4381,
+        10222
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 5,
+      "y": 745,
+      "pct": 7,
+      "settled": true,
+      "contrast": [],
+      "cues": [
+        {
+          "t": "Stasera in scena: chi insegna e chi balla, da ",
+          "o": 0.06
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        859,
+        4235,
+        10076
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 6,
+      "y": 1637,
+      "pct": 15,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -46
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -877,
+        0,
+        3343,
+        9184
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 7,
+      "y": 1961,
+      "pct": 18,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -493
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -1201,
+        0,
+        3019,
+        8860
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(18,10,33)"
+    },
+    {
+      "i": 8,
+      "y": 2286,
+      "pct": 20,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -941
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -1526,
+        0,
+        2694,
+        8535
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 9,
+      "y": 2610,
+      "pct": 23,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -1388
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -1850,
+        0,
+        2370,
+        8211
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 10,
+      "y": 2934,
+      "pct": 26,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -1835
+      ],
+      "wipes": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -2174,
+        0,
+        2046,
+        7887
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 11,
+      "y": 3258,
+      "pct": 29,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2282
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -2498,
+        0,
+        1722,
+        7563
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 12,
+      "y": 3325,
+      "pct": 30,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -2565,
+        -33,
+        1655,
+        7496
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 13,
+      "y": 3649,
+      "pct": 33,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pan",
+      "stages": [
+        -2889,
+        -357,
+        1331,
+        7172
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(11,7,21)"
+    },
+    {
+      "i": 14,
+      "y": 3974,
+      "pct": 36,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(34.41% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "flow",
+      "stages": [
+        -3214,
+        -682,
+        1006,
+        6847
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 15,
+      "y": 4298,
+      "pct": 39,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(77.21% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "flow",
+      "stages": [
+        -3538,
+        -1006,
+        682,
+        6523
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 16,
+      "y": 4622,
+      "pct": 41,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -3862,
+        -1330,
+        358,
+        6199
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 17,
+      "y": 4946,
+      "pct": 44,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate G",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate Giulia ",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -4186,
+        -1654,
+        34,
+        5875
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 18,
+      "y": 5037,
+      "pct": 45,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate G",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate Giulia ",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -4277,
+        -1745,
+        0,
+        5784
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 19,
+      "y": 5588,
+      "pct": 50,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.85
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate G",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 7.97,
+          "mean": 8.03
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate Giulia ",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -4828,
+        -2296,
+        0,
+        5233
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 20,
+      "y": 6139,
+      "pct": 55,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate M",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Istruttore 3 certificazioni verificate Marco D",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -5379,
+        -2847,
+        0,
+        4682
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 21,
+      "y": 6690,
+      "pct": 60,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.85
+        },
+        {
+          "t": "Ballerino 1 certificazione verificata Au",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 7.97,
+          "mean": 8.02
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Ballerino 1 certificazione verificata Aurora B",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -5930,
+        -3398,
+        0,
+        4131
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 22,
+      "y": 7241,
+      "pct": 65,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "In scena stasera Tieni la luce su chi ba",
+          "dir": "light-on-dark",
+          "worst": 17.72,
+          "mean": 17.86
+        },
+        {
+          "t": "Istruttore 2 certificazioni verificate B",
+          "dir": "own-fill",
+          "worst": 17.03,
+          "mean": 17.03
+        },
+        {
+          "t": "Tutti i talenti",
+          "dir": "light-on-dark",
+          "worst": 8.01,
+          "mean": 8.04
+        }
+      ],
+      "cues": [
+        {
+          "t": "In scena stasera Tieni la luce su chi balla.",
+          "o": 1
+        },
+        {
+          "t": "Istruttore 2 certificazioni verificate Beatric",
+          "o": 1
+        },
+        {
+          "t": "Tutti i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -6481,
+        -3949,
+        0,
+        3580
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 23,
+      "y": 7792,
+      "pct": 70,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -7032,
+        -4500,
+        0,
+        3029
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 24,
+      "y": 7894,
+      "pct": 71,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        -7134,
+        -4602,
+        -45,
+        2927
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(7,4,13)"
+    },
+    {
+      "i": 25,
+      "y": 8328,
+      "pct": 75,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "flow",
+      "stages": [
+        -7568,
+        -5036,
+        -479,
+        2493
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(19,12,36)"
+    },
+    {
+      "i": 26,
+      "y": 8761,
+      "pct": 79,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "act": "flow",
+      "stages": [
+        -8001,
+        -5469,
+        -912,
+        2060
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 27,
+      "y": 9195,
+      "pct": 82,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 100% 0px 0px)",
+        "inset(0px 0px 0px 100%)",
+        "inset(0px 100% 0px 0px)",
+        "inset(0px 0px 0px 100%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -8435,
+        -5903,
+        -1346,
+        1626
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 28,
+      "y": 9294,
+      "pct": 83,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 100% 0px 0px)",
+        "inset(0px 0px 0px 100%)",
+        "inset(0px 100% 0px 0px)",
+        "inset(0px 0px 0px 100%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -8534,
+        -6002,
+        -1445,
+        1527
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 29,
+      "y": 9593,
+      "pct": 86,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 55.03% 0px 0px)",
+        "inset(0px 0px 0px 87.98%)",
+        "inset(0px 100% 0px 0px)",
+        "inset(0px 0px 0px 100%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -8833,
+        -6301,
+        -1744,
+        1228
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 30,
+      "y": 9628,
+      "pct": 86,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 41.05% 0px 0px)",
+        "inset(0px 0px 0px 77.13%)",
+        "inset(0px 98.96% 0px 0px)",
+        "inset(0px 0px 0px 100%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -8868,
+        -6336,
+        -1779,
+        1193
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 31,
+      "y": 9892,
+      "pct": 89,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 13.9% 0px 0px)",
+        "inset(0px 0px 0px 47.65%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -9132,
+        -6600,
+        -2043,
+        929
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 32,
+      "y": 10062,
+      "pct": 90,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0.26%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -9302,
+        -6770,
+        -2213,
+        759
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(26,16,48)"
+    },
+    {
+      "i": 33,
+      "y": 10192,
+      "pct": 91,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -9432,
+        -6900,
+        -2343,
+        629
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 34,
+      "y": 10491,
+      "pct": 94,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 17.42,
+          "mean": 17.45
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -9731,
+        -7199,
+        -2642,
+        330
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 35,
+      "y": 10790,
+      "pct": 97,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 17.43,
+          "mean": 17.45
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10030,
+        -7498,
+        -2941,
+        31
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 36,
+      "y": 10828,
+      "pct": 97,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 17.43,
+          "mean": 17.45
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10068,
+        -7536,
+        -2979,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(20,12,37)"
+    },
+    {
+      "i": 37,
+      "y": 10893,
+      "pct": 98,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 17.43,
+          "mean": 17.47
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 11.16,
+          "mean": 11.28
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 15.58,
+          "mean": 17
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 0.94
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10133,
+        -7601,
+        -3044,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(15,9,28)"
+    },
+    {
+      "i": 38,
+      "y": 10958,
+      "pct": 98,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 16.7,
+          "mean": 17.43
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 10.72,
+          "mean": 11.24
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 15.58,
+          "mean": 16.94
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10198,
+        -7666,
+        -3109,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 39,
+      "y": 11023,
+      "pct": 99,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 14.38,
+          "mean": 17.19
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 9.19,
+          "mean": 11.1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 13.76,
+          "mean": 16.69
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10263,
+        -7731,
+        -3174,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 40,
+      "y": 11088,
+      "pct": 99,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 11.51,
+          "mean": 16.56
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 7.38,
+          "mean": 10.66
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 10.99,
+          "mean": 16.06
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10328,
+        -7796,
+        -3239,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 41,
+      "y": 11153,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 12.42,
+          "mean": 16.28
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 7.92,
+          "mean": 10.57
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 11.83,
+          "mean": 15.75
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10393,
+        -7861,
+        -3304,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    },
+    {
+      "i": 42,
+      "y": 11159,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "dir": "light-on-dark",
+          "worst": 11.91,
+          "mean": 16.21
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e ",
+          "dir": "light-on-dark",
+          "worst": 7.64,
+          "mean": 10.42
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "dir": "light-on-dark",
+          "worst": 11.33,
+          "mean": 15.68
+        }
+      ],
+      "cues": [
+        {
+          "t": "Il prossimo numero è il tuo.",
+          "o": 1
+        },
+        {
+          "t": "Il profilo è gratuito per chi insegna e per ch",
+          "o": 1
+        },
+        {
+          "t": "Crea il profilo Esplora i talenti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2329
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)",
+        "inset(0px 0% 0px 0px)",
+        "inset(0px 0px 0px 0%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -10399,
+        -7867,
+        -3310,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(13,7,24)"
+    }
+  ],
+  "consoleErrors": [],
+  "failed": []
+}

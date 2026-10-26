@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>FrankDanza · La community di istruttori e ballerini</title>
+  <meta name="description" content="Trova istruttori e ballerini con profilo verificato, scopri stili, lezioni ed eventi. La community italiana della danza.">
+  <meta name="theme-color" content="#F3F2EE">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Schibsted+Grotesk:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>document.documentElement.classList.add('js')</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Vai al contenuto</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="FrankDanza, home">
+        <svg class="brand-mark" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+          <path d="M9 33C10 20 14 9 30 7" stroke="#3346FF" stroke-width="4.5" stroke-linecap="round"/>
+          <path d="M8 21c6-3 13-3 21 1" stroke="#121214" stroke-width="4.5" stroke-linecap="round"/>
+        </svg>
+        FrankDanza
+      </a>
+      <nav class="nav" aria-label="Principale">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="dancers.html">Talenti</a>
+        <a href="dancers.html?role=istruttore">Istruttori</a>
+        <a href="#eventi">Eventi</a>
+        <a class="btn btn-sm" href="#unisciti">Crea il profilo</a>
+      </nav>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Apri menu">
+        <svg class="icon i-menu" aria-hidden="true"><use href="#i-menu"/></svg>
+        <svg class="icon i-close" aria-hidden="true"><use href="#i-close"/></svg>
+      </button>
+    </div>
+  </header>
+  <nav id="mobile-nav" class="mobile-nav" aria-label="Menu mobile">
+    <a href="index.html">Home</a>
+    <a href="dancers.html">Talenti</a>
+    <a href="dancers.html?role=istruttore">Istruttori</a>
+    <a href="#eventi">Eventi</a>
+    <a class="btn" href="#unisciti">Crea il profilo</a>
+  </nav>
+
+  <main id="main">
+    <!-- Apertura -->
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <h1 class="hero-title">
+            <span class="line"><span>Trova chi</span></span>
+            <span class="line"><span>ti fa</span></span>
+            <span class="line"><span class="accent">ballare.</span></span>
+          </h1>
+          <p class="hero-lead">Istruttori e ballerini con profilo verificato in tutta Italia. Cerca per stile, città o nome e scrivi direttamente dal profilo.</p>
+          <form class="search" action="dancers.html" role="search">
+            <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+            <label for="q" class="sr-only">Cerca per stile, città o nome</label>
+            <input id="q" name="q" type="search" placeholder="Salsa a Bologna, heels…" autocomplete="off">
+            <button class="btn" type="submit">Cerca</button>
+          </form>
+          <div class="hero-tags">
+            <span>Più cercati:</span>
+            <a class="chip" href="dancers.html?style=Hip%20Hop">Hip Hop</a>
+            <a class="chip" href="dancers.html?style=Bachata">Bachata</a>
+            <a class="chip" href="dancers.html?style=Contemporaneo">Contemporaneo</a>
+          </div>
+        </div>
+
+        <div class="hero-media-wrap">
+          <div class="hero-media" id="hero-media">
+            <!-- Il video va in assets/media/hero.mp4; finché manca resta la foto -->
+            <img id="hero-poster" src="https://images.unsplash.com/photo-1547153760-18fc86324498?w=900&amp;q=72&amp;auto=format&amp;h=1035&amp;fit=crop&amp;crop=entropy" width="900" height="1035" alt="Danzatrice con un abito giallo in un passo di danza moderna" fetchpriority="high">
+            <video id="hero-video" muted loop playsinline preload="none" aria-hidden="true" data-src="assets/media/hero.mp4"></video>
+            <button class="media-toggle" id="media-toggle" type="button" aria-label="Metti in pausa il video" hidden>
+              <svg class="icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+            </button>
+          </div>
+          <div class="float-card f1" aria-hidden="true">
+            <span class="ava" id="ava-1"></span>
+            <div><b>Lezione confermata</b><small>Salsa cubana, giovedì 21:00</small></div>
+          </div>
+          <div class="float-card f2" aria-hidden="true">
+            <span class="tick"><svg class="icon"><use href="#i-shield"/></svg></span>
+            <div><b>Profilo verificato</b><small>Certificazioni controllate</small></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stili -->
+    <section class="section" style="padding-top:0" aria-labelledby="stili-title">
+      <div class="wrap section-head">
+        <h2 id="stili-title" class="section-title" data-reveal="clip">Scegli il tuo stile</h2>
+        <div class="row-ctrl">
+          <button class="icon-btn" data-row="prev" aria-label="Stili precedenti"><svg class="icon flip" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          <button class="icon-btn" data-row="next" aria-label="Stili successivi"><svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+        </div>
+      </div>
+      <div class="styles-row" id="styles-row"></div>
+    </section>
+
+    <!-- Talenti -->
+    <section class="section" style="padding-top:0" aria-labelledby="talenti-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="talenti-title" class="section-title" data-reveal="clip">Talenti in evidenza</h2>
+          <a class="link-arrow" href="dancers.html">Tutti i profili <svg class="icon" aria-hidden="true"><use href="#i-arrowUpRight"/></svg></a>
+        </div>
+        <div class="cards-4" id="featured"></div>
+      </div>
+    </section>
+
+    <!-- Come funziona -->
+    <section class="section" style="padding-top:0" aria-labelledby="come-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="come-title" class="section-title" data-reveal="clip">Come funziona</h2>
+          <p class="section-lead" data-reveal="up">Un profilo completo in pochi minuti. Le certificazioni le controlliamo noi, di solito entro 48 ore.</p>
+        </div>
+        <ol class="steps">
+          <li class="step" data-reveal="up" style="--i:0"><span class="step-n">01</span><svg class="icon icon-lg" aria-hidden="true"><use href="#i-spark"/></svg><h3>Crea il profilo</h3><p>Ruolo, stili, città e livello, con foto e video delle tue performance.</p></li>
+          <li class="step" data-reveal="up" style="--i:1"><span class="step-n">02</span><svg class="icon icon-lg" aria-hidden="true"><use href="#i-award"/></svg><h3>Carica i diplomi</h3><p>Ogni certificato riceve un codice; dopo il controllo compare il badge.</p></li>
+          <li class="step" data-reveal="up" style="--i:2"><span class="step-n">03</span><svg class="icon icon-lg" aria-hidden="true"><use href="#i-mail"/></svg><h3>Ricevi le richieste</h3><p>Allievi, scuole e produzioni ti scrivono direttamente dal profilo.</p></li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Eventi -->
+    <section class="section" id="eventi" style="padding-top:0" aria-labelledby="eventi-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="eventi-title" class="section-title" data-reveal="clip">Prossimi eventi</h2>
+          <a class="link-arrow" href="#">Calendario completo <svg class="icon" aria-hidden="true"><use href="#i-arrowUpRight"/></svg></a>
+        </div>
+        <div class="events" id="events"></div>
+      </div>
+    </section>
+
+    <!-- Invito -->
+    <section class="wrap" id="unisciti">
+      <div class="cta" data-reveal="scale">
+        <svg class="cta-rings" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="49"/><circle cx="50" cy="50" r="49"/><circle cx="50" cy="50" r="49"/></svg>
+        <h2>Il tuo prossimo palco inizia da un profilo.</h2>
+        <p>L'iscrizione è gratuita per chi insegna e per chi balla.</p>
+        <div class="cta-actions">
+          <a class="btn btn-light" href="#">Crea il profilo <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+          <a class="btn btn-ghost" href="dancers.html">Esplora i talenti</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <a class="brand" href="index.html">FrankDanza</a>
+          <p>La community italiana per chi la danza la insegna, la studia e la vive.</p>
+          <div class="socials">
+            <a href="#" aria-label="Instagram"><svg class="icon" aria-hidden="true"><use href="#i-instagram"/></svg></a>
+            <a href="#" aria-label="Email"><svg class="icon" aria-hidden="true"><use href="#i-mail"/></svg></a>
+          </div>
+        </div>
+        <div><h4>Community</h4><ul><li><a href="dancers.html?role=istruttore">Istruttori</a></li><li><a href="dancers.html?role=ballerino">Ballerini</a></li><li><a href="#eventi">Eventi</a></li></ul></div>
+        <div><h4>Risorse</h4><ul><li><a href="#">Verifica certificati</a></li><li><a href="#">Guida al profilo</a></li><li><a href="#">Per le scuole</a></li></ul></div>
+        <div><h4>Azienda</h4><ul><li><a href="#">Chi siamo</a></li><li><a href="#">Privacy</a></li><li><a href="#">Contatti</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><span>© <span id="year">2026</span> FrankDanza. Dati e foto di esempio.</span><span>Fatto a tempo di musica.</span></div>
+    </div>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/media.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/home.js"></script>
+</body>
+</html>
